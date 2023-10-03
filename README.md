@@ -1,2 +1,2 @@
-# codsoft_taskno2
-C++ task 2 (GUESSING GAME)
+# codsoft_taskno1
+C++ task 1 (GUESSING GAME)
